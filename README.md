@@ -1,5 +1,8 @@
 # `@react-native-community/blur`
 
+
+## THIS FIXES THE APPLE TVOS ISSUE INSTALL THIS FORK WITH `nnomadic/react-native-blur`
+
 [![npm version](https://badge.fury.io/js/%40react-native-community%2Fblur.svg)](https://badge.fury.io/js/%40react-native-community%2Fblur)
 
 A component for UIVisualEffectView's blur and vibrancy effect on iOS, and [BlurView](https://github.com/Dimezis/BlurView) on Android.<br>
